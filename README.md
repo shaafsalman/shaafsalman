@@ -19,9 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaafsalman&show_icons=true&locale=en&layout=compact" alt="shaafsalman" /></p>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/shaafsalman/shaafsalman/blob/output/github-contribution-grid-snake.gif)
 
