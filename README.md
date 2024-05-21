@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <h3>Frontend:</h3>
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,javascript,bootstrap,redux,recoil" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,javascript,bootstrap,redux" /><br>
     <h3>Backend:</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,js,npm,threejs,spring" /><br>
     <h3>Databse:</h3>
