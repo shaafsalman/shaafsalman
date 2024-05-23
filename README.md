@@ -38,7 +38,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Flow Control </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/output/github-contribution-grid-snake-dark.svg" />
   
