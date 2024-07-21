@@ -37,13 +37,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>Flow Control </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
