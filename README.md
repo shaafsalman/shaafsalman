@@ -6,7 +6,7 @@
 
 </h1>
 
-- 📫 How to reach me **iamshaafsalman@gmail.com**
+- 📫 mac **iamshaafsalman@gmail.com**
 
 <div align="center">
  <a href="https://twitter.com/shaafsalman_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaafsalman_ss" height="30" width="40" /></a>
@@ -17,7 +17,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Inventory ⚒️</h2>
 <br/>
 <div align="center">
     <h3>Frontend:</h3>
