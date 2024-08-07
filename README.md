@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shaafsalman.shaafsalman" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=8000&lines=Initializing+Go+Home+Machine;Dimension+Signature+Identified;Shaaf+Salman;" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Initializing+Go+Home+Machine;Dimension+Signature+Identified;Shaaf+Salman;" alt="Typing SVG">
 
 </h1>
 
