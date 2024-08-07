@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shaafsalman.shaafsalman" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shaaf+Salman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Initializing+Go+Home +Machine+Dimension+Signature+Identified+🕸️;+I'm+Shaaf+Salman!;" />
 </h1>
 
 - 📫 How to reach me **iamshaafsalman@gmail.com**
