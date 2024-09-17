@@ -20,20 +20,7 @@
 <h2 align="center">⚒️ Inventory ⚒️</h2>
 <br/>
 <div align="center">
-    <h3>Frontend:</h3>
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,javascript,bootstrap,redux,jquery" /><br>
-    <h3>Backend:</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,js,npm,threejs,spring" /><br>
-    <h3>Databse:</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>  
-  <h3>Languages and Frameworks:</h3>
-    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,python,androidstudio," /><br>
-  <h3>Deployment:</h3>
-    <img src="https://skillicons.dev/icons?i=ubuntu,pnpm,vercel,netlify,heroku,gradle,github,git,eclipse,cloudflare" /><br> 
- <h3>Machine Learning:</h3>
-   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /><br>
-    <h3>:</h3>
-    <img src="https://skillicons.dev/icons?i=figma,matlab,ps,notion,blender" /><br>
+ <img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,javascript,bootstrap,redux,jquery,nodejs,express,nextjs,js,npm,threejs,spring,mysql,mongodb,java,c,cs,cpp,python,androidstudio,ubuntu,pnpm,vercel,netlify,heroku,gradle,github,git,eclipse,cloudflare,pytorch,tensorflow,sklearn,figma,matlab,ps,notion,blender" />
 </div>
 
 
