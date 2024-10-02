@@ -20,7 +20,8 @@
 <h2 align="center">⚒️ Inventory ⚒️</h2>
 <br/>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,javascript,bootstrap,redux,jquery,nodejs,express,nextjs,js,npm,threejs,spring,mysql,mongodb,java,c,cs,cpp,python,androidstudio,ubuntu,pnpm,vercel,netlify,heroku,gradle,github,git,eclipse,cloudflare,pytorch,tensorflow,sklearn,figma,matlab,ps,notion,blender" />
+ <img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,javascript,bootstrap,redux,jquery,nodejs,express,nextjs,js,npm,threejs,spring,mysql,mongodb,java,c,cs,cpp,python,fastapi	androidstudio,ubuntu,pnpm,vercel,netlify,heroku,gradle,github,git,eclipse,cloudflare,pytorch,tensorflow,sklearn,figma,matlab,ps,notion,blender" />
+ <img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,javascript,bootstrap,redux,jquery,nodejs,express,nextjs,js,npm,threejs,spring,mysql,mongodb,java,c,cs,cpp,python,,androidstudio,ubuntu,pnpm,vercel,netlify,heroku,gradle,github,git,eclipse,cloudflare,pytorch,tensorflow,sklearn,figma,matlab,ps,notion,blender" />
 </div>
 
 
