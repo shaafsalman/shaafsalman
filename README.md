@@ -13,11 +13,11 @@
   <a href="https://linkedin.com/in/shaaf-salman-1397512aa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/shaaf_salman_ss" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/shaafsalman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-  
-  <!-- Improved Email Button -->
-<a href="mailto:iamshaafsalman@gmail.com" style="display: inline-block; margin-top: 10px; background-color: #4CAF50; color: white; padding: 12px 30px; font-size: 16px; font-weight: bold; border-radius: 30px; text-decoration: none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
-  📧 Email Me
+<a href="mailto:iamshaafsalman@gmail.com" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="30" width="30" />
 </a>
+
+
 </div>
 <div style="height: 10;"></div> <!-- This creates a gap -->
 <hr style="border: 1px solid #fff;">
