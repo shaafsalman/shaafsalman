@@ -37,10 +37,38 @@
 <div align="left">
 </div>  -->
 
+
+<!-- Current Researches Section -->
+<div style="height: 40;"></div> <!-- This creates a gap -->
+
+<h1 align="left" style="font-family: 'Figtree', sans-serif;">Current Laboratory Point of View</h1>
+
+<div style="padding-left: 20px; color: white; margin-bottom: 20px;">
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 15px;">
+      <strong>Training Open-Source Models using sCoRE and COTS</strong>
+      <br>
+      <span style="color: #bbb; font-size: 14px;">Building and training open-source models to simulate efficient, human-like reasoning processes.</span>
+    </li>
+     <li style="margin-bottom: 15px;">
+      <strong>Synthetic Dataset Generation</strong>
+      <br>
+      <span style="color: #bbb; font-size: 14px;">Designing pipelines in langChain to generate structured datasets to enhance machine learning model training on coding problems.</span>
+    </li>
+     <li style="margin-bottom: 15px;">
+      <strong>Autonomous Repository Solving Agent through SWE Bench</strong>
+      <br>
+      <span style="color: #bbb; font-size: 14px;">Developing AI-based agents for solving bugs in repository autonomously.</span>
+    </li>
+  </ul>
+</div>
+
+
 <div style="height: 40;"></div> <!-- This creates a gap -->
 
 <!-- Articles Published -->
-<h1 align="left" style="font-family: 'Figtree', sans-serif; color: white;">Things Useful</h1>
+
+<h1 align="left" style="font-family: 'Figtree', sans-serif;">Things Useful</h1>
 <div style="padding-left: 20px; color: white;">
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 15px;">
@@ -57,6 +85,9 @@
 
 
 <div style="height: 40;"></div> <!-- This creates a gap -->
+
+
+
 
 
 
