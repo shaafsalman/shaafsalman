@@ -68,12 +68,22 @@
 
 <!-- Articles Published -->
 
-<h1 align="left" style="font-family: 'Figtree', sans-serif;">Things Useful</h1>
+<h1 align="left" style="font-family: 'Figtree', sans-serif;">Writings</h1>
 <div style="padding-left: 20px; color: white;">
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 15px;">
       <a href="https://medium.com/@ishaafsalman/d86d51f9401b" target="_blank" style="text-decoration: none; color: white; font-weight: bold; font-size: 18px;">
         Frontend Deployment On VPS
+      </a>
+      <br>
+      <span style="color: #bbb; font-size: 14px;">Sun, 27 Jan 2025</span>
+    </li>
+
+  </ul>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 15px;">
+      <a href="https://medium.com/@ishaafsalman/creating-synthetic-datasets-revolutionizing-the-training-of-llm-1d694245de6f" target="_blank" style="text-decoration: none; color: white; font-weight: bold; font-size: 18px;">
+        Creating Synthetic Datasets Revolutionizing the training of LLM
       </a>
       <br>
       <span style="color: #bbb; font-size: 14px;">Sun, 20 Jan 2025</span>
