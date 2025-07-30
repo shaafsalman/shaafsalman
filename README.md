@@ -16,7 +16,7 @@
 ```
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=C0C0C0FF&size=60&center=true&vCenter=true&repeat=false&width=800&height=100&duration=3000&lines=Initializing+Go+Home+Machine;Dimension+Signature+Verifies;Welcome+to+Earth+🌏)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=C0C0C0FF&size=60&center=true&vCenter=true&width=800&height=100&duration=3000&lines=Initializing+Go+Home+Machine;Dimension+Signature+Verifies;Welcome+to+Earth+🌏)
 
 
 </div>
