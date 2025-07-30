@@ -1,69 +1,64 @@
-
 <div align="center">
-
-<table width="100%">
-<tr>
-<td width="180" align="center" valign="middle">
-<img src="https://github.com/shaafsalman.png" width="160" height="160" style="border-radius: 80px; border: 10px solid #58A6FF;" alt="Shaaf Salman" />
-
-<br><br>
-
-<a href="https://linkedin.com/in/shaaf-salman-1397512aa" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
-</a>
-<a href="https://huggingface.co/shaafsalman" target="_blank">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" height="35" alt="Hugging Face"/>
-</a>
-<a href="https://medium.com/@ishaafsalman" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35" height="35" alt="Medium"/>
-</a>
-<a href="mailto:iamshaafsalman@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" height="35" alt="Gmail"/>
-</a>
-
-<br><br>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shaafsalman.shaafsalman)
-</td>
-<td align="left" valign="middle" style="padding-left: 20px;">
-<h1 style="font-size: 4rem; font-weight: 900; letter-spacing: -0.05em; margin: 0; font-family: Arial, sans-serif; color: #000;">Shaaf Salman</h1><p>🧬 Medical AI Researcher | 🤖 LLM Fine-Tuning | 🚀 Full Stack Developer | 🔬 Linux Server Management</p>
-</td>
-</tr>
-</table>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=800&height=60&duration=5000&lines=Initializing+Go+Home+Machine;Shaaf+Salman+Connected;)
 
 </div>
 
+<div align="center">
+<h1 style="font-size: 4rem; font-weight: 900; letter-spacing: -0.05em; margin: 0; font-family: Arial, sans-serif; color: #000;"></h1>
+<p>🧬 Medical AI Researcher | 🤖 LLM Fine-Tuning | 🚀 Full Stack Developer | 🔬 Linux Server Management</p>
+</div>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shaaf-salman-1397512aa" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://huggingface.co/shaafsalman" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" height="35" alt="Hugging Face"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@ishaafsalman" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35" height="35" alt="Medium"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:iamshaafsalman@gmail.com" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" height="35" alt="Gmail"/>
+</a>
+
+</div>
+
+<br>
 
 # ⚗️ Research & Development Laboratory
 
-<table width="100%">
+<table width="100%" cellpadding="10">
 <tr>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 
 **🩺 Medical AI Fine-Tuning Research**
 
 Specializing open-source language models on clinical datasets for healthcare applications, focusing on diagnostic assistance and medical text analysis.
 
 </td>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 
 **🧠 Biomedical Data Pipeline Engineering**
 
-Developing  LangChain-based pipelines for processing Synthetic datasets .
+Developing LangChain-based pipelines for processing Synthetic datasets.
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 
 **💎 Synthetic Medical Data Generation**
 
 Creating privacy-compliant synthetic datasets for medical AI training using advanced generative techniques and domain-specific validation frameworks.
 
 </td>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 
 **🌐 Full Scale Web Systems Development**
 
@@ -73,19 +68,32 @@ Building complete web applications with deployment automation and Linux server m
 </tr>
 </table>
 
+<div align="center">
+
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,12&height=10&section=header)
+
+</div>
 
 # ⚔️ Arsenal
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,django,flask,react,vite,tailwind,figma,javascript,bootstrap,redux,nodejs,express,java,spring,mysql,mongodb,firebase,heroku,vercel,netlify,cloudflare,github,git,gradle,notion" alt="Tech Stack" />
+
+</div>
+
+<div align="center">
 
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,12&height=10&section=header)
 
+</div>
+
 # 📖 Publications & Technical Articles
 
-<table width="100%">
+<div align="center">
+<table width="90%" cellpadding="15">
 <tr>
-<td align="left">
+<td align="center">
 
 [📝 **Visit My Medium Profile**](https://medium.com/@ishaafsalman)
 
@@ -93,6 +101,10 @@ Building complete web applications with deployment automation and Linux server m
 
 </td>
 </tr>
+</table>
+</div>
+
+<table width="100%" cellpadding="12">
 <tr>
 <td align="left">
 
@@ -117,56 +129,75 @@ Revolutionary approaches to data synthesis and model training paradigms in medic
 </tr>
 </table>
 
+<div align="center">
+
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,12&height=10&section=header)
 
+</div>
 
 <div align="center">
 
-<table width="100%">
+<table width="100%" cellspacing="10">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
+
 <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=shaafsalman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
+
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
+
 <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shaafsalman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+
 </td>
 </tr>
 </table>
 
 </div>
 
+<div align="center">
+
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,12&height=10&section=header)
+
+</div>
 
 # 🎯 Domain Expertise & Specializations
 
-<table width="200%">
+<table width="100%" cellpadding="15">
 <tr>
-<td width="25%" align="left">
+<td width="25%" align="center" valign="top">
 
 **🩺 Medical AI**
 
-Clinical NLP<br>Medical Imaging<br>Healthcare Analytics
+Clinical NLP<br>
+Medical Imaging<br>
+Healthcare Analytics
 
 </td>
-<td width="25%" align="left">
+<td width="25%" align="center" valign="top">
 
 **🧠 LLM Fine-Tuning**
 
-Domain Adaptation<br>Parameter-Efficient Training<br>Medical Specialization
+Domain Adaptation<br>
+Parameter-Efficient Training<br>
+Medical Specialization
 
 </td>
-<td width="25%" align="left">
+<td width="25%" align="center" valign="top">
 
 **💎 Synthetic Data**
 
-Privacy-Preserving ML<br>Data Augmentation<br>Generative Models
+Privacy-Preserving ML<br>
+Data Augmentation<br>
+Generative Models
 
 </td>
-<td width="25%" align="left">
+<td width="25%" align="center" valign="top">
 
 **⚙️ AI Pipelines**
 
-LangChain Systems<br>MLOps<br>Production Deployment
+LangChain Systems<br>
+MLOps<br>
+Production Deployment
 
 </td>
 </tr>
