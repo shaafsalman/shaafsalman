@@ -94,16 +94,6 @@
 
 ## 🔬 Research Publications
 
-<div align="center">
-
-![Publications](https://img.shields.io/badge/📚%20Total%20Publications-2-FF6B6B?style=for-the-badge&labelColor=2C3E50)
-![Research Areas](https://img.shields.io/badge/🎯%20Research%20Areas-2-4ECDC4?style=for-the-badge&labelColor=2C3E50)
-![Impact](https://img.shields.io/badge/📈%20Impact%20Score-High-F39C12?style=for-the-badge&labelColor=2C3E50)
-
----
-
-### 📖 Featured Publications
-
 | Publication | Details |
 |-------------|---------|
 | **🤖 Synthetic Dataset Generation for LLMs** <br/> [![Article](https://img.shields.io/badge/📖%20Read%20Article-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ishaafsalman/creating-synthetic-datasets-revolutionizing-the-training-of-llm-1d694245de6f) | ![ML Research](https://img.shields.io/badge/🧠%20ML%20Research-4A90E2?style=flat-square) ![LLMs](https://img.shields.io/badge/🤖%20LLMs-9B59B6?style=flat-square) ![Synthetic Data](https://img.shields.io/badge/📊%20Synthetic%20Data-E67E22?style=flat-square) <br/> ![Read Time](https://img.shields.io/badge/⏱️%208%20min%20read-27AE60?style=flat-square) ![Status](https://img.shields.io/badge/🔥%20Trending-FF4757?style=flat-square) |
