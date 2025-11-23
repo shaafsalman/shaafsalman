@@ -66,7 +66,7 @@
 
 ## Arsenal
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,nodejs,express,react,vite,tailwind,javascript,redux,mysql,mongodb,firebase,aws,heroku,vercel,netlify,cloudflare,linux,git,github,gradle,figma,notion&theme=dark&perline=13" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,express,react,vite,javascript,mysql,mongodb,firebase,aws,linux,git,,notion&theme=dark&perline=13" alt="Tech Stack" />
 
 ---
 
