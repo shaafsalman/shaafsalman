@@ -45,5 +45,5 @@ jobs:
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_colors: 0:#000000, 1:#1a1a1a, 2:#333333, 3:#4d4d4d, 4:#808080, 5:#a6a6a6, 6:#c0c0c0, 7:#ffffff
+          plugin_languages_colors: github
           plugin_languages_threshold: 0%
