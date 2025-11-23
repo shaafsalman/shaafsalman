@@ -40,11 +40,11 @@
 ---
 
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" width="100%"/>
+<img src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" width="100%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/metrics.plugin.languages.indepth.svg" alt="Language Statistics" width="50%"/>
+<img src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/main/metrics.plugin.languages.indepth.svg" alt="Language Statistics" width="50%"/>
 
 ---
 
