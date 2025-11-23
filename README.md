@@ -31,8 +31,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamshaafsalman@gmail.com)
 
 
-## Core
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -55,7 +53,7 @@
 - Synthetic medical data generation
 - Medical reasoning datasets
 
-### 🛠️Infrastructure
+### 🛠️ Infrastructure
 - Linux server management
 - System administration
 - DevOps operations
