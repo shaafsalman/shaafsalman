@@ -37,17 +37,6 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
-
-
-<img src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/main/metrics.plugin.languages.indepth.svg" alt="Language Statistics" width="50%"/>
-
----
-
 ## Core Competencies
 
 <table>
@@ -161,6 +150,12 @@
 [![View All Articles](https://img.shields.io/badge/View_All_Articles_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ishaafsalman)
 
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar" width="49%"/>
+  <img src="https://raw.githubusercontent.com/shaafsalman/shaafsalman/main/metrics.plugin.languages.indepth.svg" alt="Language Statistics" width="49%"/>
+</div>
+
 
 </div>
 
