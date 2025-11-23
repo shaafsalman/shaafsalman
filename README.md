@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=C0C0C0FF&size=60&center=true&vCenter=true&width=800&height=100&duration=2000&lines=Initializing+Go+Home+Machine;Dimension+Signature+Verified;Welcome+to+Earth+🌏)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=C0C0C0FF&size=60&center=true&vCenter=true&width=800&height=100&duration=3000&lines=Initializing+Go+Home+Machine;Dimension+Signature+Verified;Welcome+to+Earth+🌏)
 <!-- 
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
@@ -19,25 +19,19 @@
 
 
 <div align="center">
+  
+<img src="https://img.shields.io/badge/Medical_AI_Research-ffffff?style=for-the-badge&labelColor=1a1a1a&color=black"/>
+<img src="https://img.shields.io/badge/LLM_Fine--tuning-c0c0c0?style=for-the-badge&labelColor=1a1a1a&color=white"/>
+<img src="https://img.shields.io/badge/Full_Stack_Development-808080?style=for-the-badge&labelColor=1a1a1a&color=CCCCC"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/🧬_Medical_AI-Researcher-00d4aa?style=for-the-badge&labelColor=1a1a1a&color=00d4aa"/>
-<img src="https://img.shields.io/badge/🔗_LangChain-Architect-ff6b6b?style=for-the-badge&labelColor=1a1a1a&color=ff6b6b"/>
-<img src="https://img.shields.io/badge/🚀_Full_Stack-Engineer-4ecdc4?style=for-the-badge&labelColor=1a1a1a&color=4ecdc4"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaaf-salman-1397512aa)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/shaafsalman)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ishaafsalman)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamshaafsalman@gmail.com)
 
-<a href="https://linkedin.com/in/shaaf-salman-1397512aa">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://huggingface.co/shaafsalman">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-<a href="https://medium.com/@ishaafsalman">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="mailto:iamshaafsalman@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-## Core Competencies
+## Core
 
 <table>
   <tr>
