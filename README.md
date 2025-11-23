@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&&color=C0C0C0FF&size=60&center=true&vCenter=true&width=800&height=100&duration=3000&lines=Initializing+Go+Home+Machine;Dimension+Signature+Verified;Welcome+to+Earth+🌏)
 <!-- 
 ```
@@ -30,6 +31,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ishaafsalman)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamshaafsalman@gmail.com)
 
+
+## FORCE ABILITIES
 
 <table>
   <tr>
@@ -64,14 +67,13 @@
 
 ---
 
-## Arsenal
+## SYSTEMS ARRAY
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,express,react,javascript,mysql,mongodb,firebase,aws,linux" alt="Tech Stack" />
 
 ---
 
-## Research Publications
-
+## RESEARCH ARCHIVES
 <table>
   <tr>
     <th width="40%">Publication</th>
