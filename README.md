@@ -32,7 +32,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamshaafsalman@gmail.com)
 
 
-## FORCE ABILITIES
 
 <table>
   <tr>
@@ -67,7 +66,6 @@
 
 ---
 
-## SYSTEMS ARRAY
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,express,react,javascript,mysql,mongodb,firebase,aws,linux" alt="Tech Stack" />
 
